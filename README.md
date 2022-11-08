@@ -1,2 +1,2 @@
-# SQL-Data-Exploration
-Data Exploration conducted on Covid-19 data using SQL
+# Data-Analyst-Projects
+Data analytics projects with varying tools for analysis.
